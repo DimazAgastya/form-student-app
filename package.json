@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^4.8.0",
     "@react-pdf-viewer/core": "^3.3.2",
     "@react-pdf-viewer/default-layout": "^3.3.2",
     "axios": "^0.27.2",
